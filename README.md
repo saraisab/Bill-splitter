@@ -1,0 +1,2 @@
+# Bill-splitter
+Hyperskill project
